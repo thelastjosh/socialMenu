@@ -55,6 +55,17 @@ Types of political parties (irrespective of political content or belief)
 * in UK
 * in Germany
 
+Types of market systems
+* auction (variety of designs)
+* electronic markets (e.g. stock markets + variations on regulation)
+* barter markets
+* monopsony
+* monopoly
+* perfect competition
+* black markets
+* grey markets
+* 
+
 Features
 * Size
 * Centralization of information-sharing
@@ -68,3 +79,5 @@ So we're asking our users to help classify our data for us. They're going to do 
 Source: CIA Factbook
 
 Is there some general system for wiki-type contributions of relational data (i.e. to a database)? Can ologs suggest something?
+
+To do: ask around, perhaps in poli-sci or econ circles, about whether such a list/menu/database exists?
