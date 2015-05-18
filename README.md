@@ -63,9 +63,8 @@ Features
 
 Rafa: describe collective entities, grouped by features, and if we let people play, run comparisons (e.g. between corporations and governments), along different features, but what are these features? Sorting all the entities or some grouping of the entities along several axes. Or ranking.
 
-So we're asking our users to help classify our data for us. They're going to do it because they want to play with the list.
+So we're asking our users to help classify our data for us. They're going to do it because they want to play with the list. This seems unlikely. Unless we start with a good amount of content.
 
 Source: CIA Factbook
-Longform comparison?
 
 Is there some general system for wiki-type contributions of relational data (i.e. to a database)? Can ologs suggest something?
