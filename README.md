@@ -1,6 +1,16 @@
 # socialMenu
 A menu for starters thinking about what kind of social organization would suit them best.
 
+Technical steps:
+* Decide on a (quick) experiment.
+* Based on the experiment, decide on a structured representation of "collective entity". This might be a graph, a vector space, a category, or an operad.
+* Run the experiment.
+* Revise the representation.
+* Repeat.
+
+Experiments
+* Crowdsourcing: allow users to run comparisons between a stock of collective entities, to add new types of entities (allowable under the representation). The UI should probably be some sort of spreadsheet, e.g. Google Sheet. So, basically: create a Google Sheet and tack it onto a Google Form, with some custom code wrapped in. Note that this practically forces a vector representation.
+
 First pass on Google:
 
 * ["kinds of organizations"](https://www.google.com/#q=kinds%20of%20organizations)
@@ -10,7 +20,7 @@ First pass on Google:
 Types of government
 * Oligarchy
 * Republic
-* Timocracy (Sparta)
+* Timocracy (e.g. Sparta)
 * Democracy
 * Aristocracy
 * Anarchy
@@ -47,10 +57,11 @@ Types of corporations or profit-making entities
 Types of nonprofits (irrespective of mission)
 * grass-roots social movement
 * astro-turf movement
-* social-good nonprofit (501c3)
-* political-action nonprofit (501c2?)
+* social-good nonprofit
+* political-action nonprofit
 
 Types of political parties (irrespective of political content or belief)
+* monolithic and authoritarian (e.g. PRC)
 * in America
 * in UK
 * in Germany
@@ -64,7 +75,6 @@ Types of market systems
 * perfect competition
 * black markets
 * grey markets
-* 
 
 Features
 * Size
@@ -72,12 +82,8 @@ Features
 * Centralization of decision-making
 * Regulation
 
-Rafa: describe collective entities, grouped by features, and if we let people play, run comparisons (e.g. between corporations and governments), along different features, but what are these features? Sorting all the entities or some grouping of the entities along several axes. Or ranking.
-
-So we're asking our users to help classify our data for us. They're going to do it because they want to play with the list. This seems unlikely. Unless we start with a good amount of content.
-
 Source: CIA Factbook
 
-Is there some general system for wiki-type contributions of relational data (i.e. to a database)? Can ologs suggest something?
+Is there some general system for wiki-style contribution to and visualization of relational data (i.e. to a database)?
 
 To do: ask around, perhaps in poli-sci or econ circles, about whether such a list/menu/database exists?
